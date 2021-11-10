@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bill-springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-springcloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-springcloud/personalAccount/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-springcloud/consumer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-springcloud/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/bill-springcloud/config-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
